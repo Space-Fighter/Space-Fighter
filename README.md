@@ -4,6 +4,7 @@ I’m currently working on a self driving car project in Carla the autonomous ve
 
 Some of my work on self driving cars is using simply semantic segmentation and object detection to calculate steering angle. 
 Here we see a car raging perfectly on the lanes of a carla town (emptied for testing purposes by the mayor lol!). And you know what it is just using semantic segmentation of the lane it is presently in. Which is great on staying on not so highly curved lanes. 
+
 https://user-images.githubusercontent.com/63576756/135388850-3d1241d7-1122-446b-b17e-6589d3da7ca6.mp4
 
 But at intersections it becomes moody and stuff. It would meet other cars and walls. Visit a cafeteria or a bookstand and what not - 
