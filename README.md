@@ -13,3 +13,8 @@ https://user-images.githubusercontent.com/63576756/135389518-d3c88587-b2f7-47f3-
 
 So in order improve my agent i am working to use open space detection which will detect where the road is along with a neural network for lane segmentation for an overall better result. Besides i will also be adding object detection and waypoint which is just enough to make a superb tesla. 
 
+![image](https://user-images.githubusercontent.com/63576756/135437034-a5ee3676-1cb0-4dda-aadd-f01befe7f54c.png)
+
+
+![image](https://user-images.githubusercontent.com/63576756/135436820-29320d90-ec33-4d7e-ade5-b1dda38d629a.png)
+
