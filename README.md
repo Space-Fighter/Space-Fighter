@@ -1,5 +1,5 @@
-- 👋 Yo, I’m @Space-Fighter. I am an artificial intelligence enthusiast. I have learnt a ton of stuff in this journey so far but still i have to learn alot more. By the way there are no limits of grasping and learning of the human brain or the 'Natural Neural Network'  so => I always keep learning stuff in my field😀. 
-I’m currently working on a self driving car project in Carla an autonomous vehicle simulator. One of the things that i love the most in this field is self driving cars. If you have a startup on autonomous vehicle or if i could make one if i had time, i would be really happy to join your perception team as a freelancer.😀
+- 👋 Yo, I’m @Space-Fighter. I am an artificial intelligence enthusiast. I love experimenting with neural networks and futuristic technologies. One of the islands in the ocean of artificial intelligence that i am truly fascinated by is the island of autonomous vehicles. 
+Pursuing my fascination and passion I’m currently working on a self driving car project in Carla an autonomous vehicle simulator. One of the things that i love the most in this field is self driving cars. If you have a startup on autonomous vehicle or if i could make one if i had time, i would be really happy to join your perception team as a freelancer.😀
 
 
 Some of my work on self driving cars is using simply semantic segmentation and object detection to calculate steering angle. 
@@ -15,6 +15,5 @@ So in order improve my agent i am working to use open space detection which will
 
 ![image](https://user-images.githubusercontent.com/63576756/135437034-a5ee3676-1cb0-4dda-aadd-f01befe7f54c.png)
 
-
-![image](https://user-images.githubusercontent.com/63576756/135436820-29320d90-ec33-4d7e-ade5-b1dda38d629a.png)
+![image](https://user-images.githubusercontent.com/63576756/135712529-0e24db10-bdf7-4978-ab4e-eb6a2880f344.png)
 
