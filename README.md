@@ -13,3 +13,8 @@ AT THE PRESENT in the project i am working on using a better semantic segmentati
 
 ![image](https://user-images.githubusercontent.com/63576756/135712529-0e24db10-bdf7-4978-ab4e-eb6a2880f344.png)
 
+![image](https://user-images.githubusercontent.com/63576756/135852468-1cf1bee6-4f3f-4718-a58e-1da6ea2670c4.png)
+
+![image](https://user-images.githubusercontent.com/63576756/135852509-073d77d6-082b-4746-9beb-526cd9f6e244.png)
+
+![image](https://user-images.githubusercontent.com/63576756/135852541-8c831c35-9435-46db-a5f5-93e0b56ba99d.png)
